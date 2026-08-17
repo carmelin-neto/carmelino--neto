@@ -17,8 +17,6 @@ differently in a production environment.
   infrastructure, applying IEC 62443 zone/conduit principles
 - 🔒 [IT/OT Segmentation & Scanning Risk Writeup](https://github.com/carmelin-neto/ot-active-scanning-risk) — why OT environments
   require different security tooling and judgment than IT
-  - 🖥️ [Home SOC Lab — Splunk + Sysmon](link) — log ingestion, detection query 
-  building, alert design *(in progress)*
 -  🔓 [ICS Modbus Attack Testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) — hands-on testing of Modbus write-protection and ARP spoofing against a simulated PLC
 
 ## Connect
