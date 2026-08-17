@@ -15,10 +15,11 @@ differently in a production environment.
 ## Featured Projects
 - 🏭 [OT Purdue Model Mapping](- 🏭 [OT Purdue Model Mapping](https://github.com/carmelin-neto/ot-purdue-model-mapping/blob/main/screenshots/purdue-model-oilgas..drawio.png)— IT/OT segmentation design for critical infrastructure, applying IEC 62443 zone/conduit principles) — IT/OT segmentation design for critical 
   infrastructure, applying IEC 62443 zone/conduit principles
-- 🔒 [IT/OT Segmentation & Scanning Risk Writeup](https://github.com/carmelin-neto/ot-active-scanning-risk) — why OT environments 
+- 🔒 [IT/OT Segmentation & Scanning Risk Writeup](https://github.com/carmelin-neto/ot-active-scanning-risk) — why OT environments
   require different security tooling and judgment than IT
-- 🖥️ [Home SOC Lab — Splunk + Sysmon](link) — log ingestion, detection query 
+  - 🖥️ [Home SOC Lab — Splunk + Sysmon](link) — log ingestion, detection query 
   building, alert design *(in progress)*
+-  🔓 [ICS Modbus Attack Testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) — hands-on testing of Modbus write-protection and ARP spoofing against a simulated PLC
 
 ## Connect
 📄 [Resume](link) | 💼 [LinkedIn](link) | ✉️ linonetojr@gmail.com
